@@ -1,0 +1,15 @@
+{
+  "name": "js_request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prakash",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "readline-sync": "^1.4.9"
+  }
+}
