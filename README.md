@@ -18,4 +18,8 @@ npm install fs --save
 
 # How to run ?
 
-First open your server port using node file_name.js in your working directory in terminal. And, then you can apply the basic CRUD operations.
+First open your server port using node js_request.js in your working directory in terminal.
+              then you can apply the basic CRUD operations.
+
+
+Happy Coding :)
