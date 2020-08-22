@@ -14,7 +14,7 @@ axios.get('http://saral.navgurukul.org/api/courses').then((Response)=>{
     }
     // console.log(did_id)
     console.log("\n")
-    var user_input =read.question("pless inter the user choes >");
+    var user_input =read.question("Please Enter your choice >");
     var U_choes = (did_id[user_input-1]);
 
 
@@ -30,7 +30,7 @@ axios.get('http://saral.navgurukul.org/api/courses').then((Response)=>{
             dic_slug.push(exercises_dic.slug)
         }
         console.log("\n")
-        var user_second_input = read.question("pless inter the user second choes >");
+        var user_second_input = read.question("Please enter your second choice >");
         var U_input = (dic_slug[user_second_input-1])
 
 
